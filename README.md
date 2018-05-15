@@ -2,6 +2,9 @@
 
 Project ini digunakan untuk praktek mata kuliah PBO.
 
+Nama: Enjhilia Ariani S
+NPM: 2015804335
+
 ## Instalasi
 
 - import file `db.sql` ke mariadb,
